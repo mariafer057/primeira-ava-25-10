@@ -1,0 +1,33 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width:100%;
+  }
+  .coluna-1 {
+  background-color:#FEA38C;
+    width:10%;
+  }
+  
+  thead, tfoot {
+    color:#F9F9F9;
+    background-color: #63456B;
+  }
+  tbody {
+    background-color: #F9F9F9;
+    border: 4px solid #FFFFFF;
+  }
+  th {
+    padding: 15px;
+    border: 4px solid #DDDDDD;
+  }
+  
+  td {
+    border: 4px solid #FFFFFF;
+  }
+  body{
+    background-color:#F9F9F9;
+  }
+  col{
+    width:18%;
+    
+  }
