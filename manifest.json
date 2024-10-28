@@ -1,6 +1,6 @@
 {
-    "name": "Minha primeira Progressive Web App",
-    "short_name": "Primeira PWA",
+    "name": "avaliação PDM",
+    "short_name": "avaliação PDM",
     "icons": [
       {
         "src": "images/pwa-icon-256.png",
