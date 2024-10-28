@@ -36,3 +36,14 @@ table {
         display: block;
     }
   }
+  .remoto{
+    background-color: #ffff00;
+}
+.materia{
+    background-color: #0051ff;
+}
+button, a{
+    background-color: #829cd3;
+    color: aliceblue;
+    border-radius: 20px;
+}
