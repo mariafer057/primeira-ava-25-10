@@ -1,4 +1,4 @@
-let cacheName = "my-first-pwa";
+let cacheName = "my-first-ava";
 let filesToCache = ["/", "/index.html",
                     "/css/style.css", "/js/main.js"];
 /* inicializando a service worker e fazendo o
