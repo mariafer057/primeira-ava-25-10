@@ -1,6 +1,6 @@
 let cacheName = "my-first-ava";
-let filesToCache = ["/", "/index.html",
-                    "/css/style.css", "/js/main.js"];
+let filesToCache = ["/", "/index.html", "/horarios_aula", "/horarios_pe","/manifest.json",
+                    "/style.css", "/js/main.js"];
 /* inicializando a service worker e fazendo o
 download do conteúdo da aplicação */
 self.addEventListener("install", (e) => {
